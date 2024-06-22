@@ -6,3 +6,5 @@
 //
 
 import Foundation
+
+var b1: String = ""
