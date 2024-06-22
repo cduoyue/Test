@@ -8,3 +8,4 @@
 import Foundation
 
 var b1: String = ""
+let movie = "Lord of the Ring"
